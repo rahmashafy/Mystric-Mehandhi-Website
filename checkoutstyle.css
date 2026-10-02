@@ -1,0 +1,139 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    padding: 0 20px;
+    background-image: url(service.jpg);
+}
+
+/* Header */
+header {
+    background-color: #73603e;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Checkout Container */
+.checkout-container {
+    margin: 20px auto;
+    max-width: 600px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Checkout Form */
+.checkout-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.checkout-form h2 {
+    margin-bottom: 10px;
+    color: #333;
+    border-bottom: 2px solid #2c1c0c;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+label {
+    font-size: 14px;
+    color: #333;
+}
+
+input[type="text"], input[type="tel"], input[type="month"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Payment Options */
+.payment-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.payment-option {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.payment-option label {
+    font-size: 14px;
+}
+
+.card-details {
+    margin-top: 10px;
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.payment-option input[type="radio"]:checked ~ .card-details {
+    display: flex;
+}
+
+/* Button */
+.submit-btn {
+    background-color: #554028;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+
+.submit-btn:hover {
+    background-color: #e2c39a;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #6c5337;
+    color: #fff;
+    margin-top: 20px;
+}
+.success-message{
+    display:none;
+    margin-top: 20px;
+    padding: 10px;
+    background: #3f2424;
+    color:#414e47;
+    border: 1px solid #333;
+    border-radius: 6px;
+    font-size:1rem;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .checkout-container {
+        padding: 15px;
+    }
+
+    .submit-btn {
+        width: 100%;
+    }
+}

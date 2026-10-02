@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign Up | Mystric Mehandhi</title>
+  <link rel="stylesheet" href="site.css">
+</head>
+<body class="auth-page">
+  <main class="auth-card form-shell">
+    <a class="brand" href="index.html">
+      <strong>Mystric Mehandhi</strong>
+      <span>Back to website</span>
+    </a>
+    <h1>Create Account</h1>
+    <p>Create your member account, then login to unlock services, booking, and returning-client privileges.</p>
+    <form id="signupForm" class="form-grid">
+      <div class="field full">
+        <label for="name">Full Name</label>
+        <input type="text" id="name" name="name" placeholder="Your full name" required>
+      </div>
+      <div class="field full">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="name@example.com" required>
+      </div>
+      <div class="field full">
+        <label for="phone">Phone Number</label>
+        <input type="tel" id="phone" name="phone" placeholder="0771234567" required>
+      </div>
+      <div class="field full">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" placeholder="Create password" required>
+      </div>
+      <button class="button-secondary" type="submit">Sign Up</button>
+    </form>
+    <div class="status-message" id="authStatus" role="status"></div>
+    <p>Already have an account? <a href="login.html">Login</a></p>
+  </main>
+  <script src="site.js"></script>
+</body>
+</html>

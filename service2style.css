@@ -1,0 +1,273 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #faf3e3;
+    color: #333;
+    background-image: url('service.jpg');
+  }
+ 
+  
+
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #9B7D61;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.navbar .nav-links li {
+    display: inline;
+}
+
+.navbar .nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.navbar .nav-links a:hover {
+    color: #f7eee4;
+}
+
+
+
+  header {
+    text-align: center;
+    background-color: #725b39;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: #6b5925;
+    font-family: 'Akaya Telivigala', cursive;
+
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .services {
+    text-align: center;
+  }
+  
+  .service-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
+  }
+    
+  
+  
+  
+  .service-box {
+    width: 300px;
+    height: 300px;
+    background: rgb(199, 186, 149);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    animation: border-flash 2s infinite;
+
+  }
+  
+  .service-box img {
+    width: 60%;
+    height: auto;
+    border-radius: 40px;
+  }
+  
+  .service-box:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+  }
+  
+  .service-box h3 {
+    margin-bottom: 10px;
+    color: #160802;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #63492d;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  button:hover {
+    background: #9b8d61;
+    transform: scale(1.05);
+  }
+  
+  /* Sub-services Styles */
+  #sub-services {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #sub-services.hidden {
+    display: none;
+  }
+  
+  .sub-service-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 10px;
+    
+  }
+  
+  .sub-service-card {
+    width: 250px;
+    padding: 20px;
+    background-color: rgb(199, 186, 149);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(8, 7, 7, 0.904);
+    cursor: pointer;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+    animation:alternate-reverse;
+    
+  }
+  
+  .sub-service-card img {
+    width: 90%;
+    height: 40%;
+    border-radius: 10px;
+    margin-bottom: 0.3%;
+    
+  }
+  
+  .sub-service-card h3 {
+    margin-bottom: 10px;
+    color: #7b3f00;
+  }
+  
+  .sub-service-card p {
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #ff6347;
+  }
+  
+  .book-now {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #4b371b;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    animation: book-now-blink 0.s;
+  }
+  
+  .book-now:hover {
+    background: #917748;
+    transform: scale(1.05);
+  }
+  .book-now a{
+    text-decoration: none;
+    color: antiquewhite;
+  }
+  
+  .back-btn {
+    background: #58341f;
+    margin-top: 15px;
+  }
+  
+  .back-btn:hover {
+    background: #dfdd99;
+  }
+  
+  /* Mobile Responsive */
+  @media (max-width: 768px) {
+    .service-container {
+      flex-direction: column;
+    }
+  
+    .sub-service-cards {
+      flex-direction: column;
+    }
+  }
+  
+  /* Keyframes for Border Flash, Different Lighting, Zoom, and Book Now Blink */
+  @keyframes border-flash {
+    0%, 100% {
+      box-shadow: 0 0 5px 5px rgba(255, 255, 255, 0.5);
+    }
+    50% {
+      box-shadow: 0 0 15px 15px rgba(255, 255, 255, 1);
+    }
+  }
+  
+  @keyframes different-lighting {
+    0%, 100% {
+      box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0);
+    }
+    50% {
+      box-shadow: 0 0 20px 10px rgba(255, 255, 255, 1);
+    }
+  }
+  
+  @keyframes zoom {
+    0%, 100% {
+      transform: scale(1.05);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+  }
+  
+  @keyframes book-now-blink {
+    0%, 100% {
+      background-color: #ff6347;
+    }
+    50% {
+      background-color: #ff0000;
+    }
+  }
+  

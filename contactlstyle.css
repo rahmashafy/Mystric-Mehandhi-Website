@@ -1,0 +1,151 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-image: url('service.jpg');
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #9B7D61;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.navbar .nav-links li {
+    display: inline;
+}
+
+.navbar .nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.navbar .nav-links a:hover {
+    color: #f7eee4;
+}
+
+
+
+
+
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #b8a57d;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 40px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.header p {
+    font-size: 25px;
+    color: #130606;
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+.contact-form {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    gap: 20px;
+}
+
+.form-container {
+    flex: 2;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form input, form textarea {
+    width: 75%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 75%;
+}
+
+.newsletter {
+    flex: 1;
+    background-color: #857152;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.newsletter h2 {
+    margin-top: 0;
+}
+
+.newsletter button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.info-section {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+
+.info {
+    flex: 1;
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: 400%;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.map {
+    flex: 2;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}

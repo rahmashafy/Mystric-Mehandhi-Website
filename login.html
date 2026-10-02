@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login | Mystric Mehandhi</title>
+  <link rel="stylesheet" href="site.css">
+</head>
+<body class="auth-page">
+  <main class="auth-card form-shell">
+    <a class="brand" href="index.html">
+      <strong>Mystric Mehandhi</strong>
+      <span>Back to website</span>
+    </a>
+    <p class="auth-eyebrow">Member access</p>
+    <h1>Welcome back</h1>
+    <p class="auth-intro">Login to unlock member-only services and booking. Your session stays in this browser.</p>
+    <form id="loginForm" class="form-grid">
+      <div class="field full">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="name@example.com" required>
+      </div>
+      <div class="field full">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" placeholder="Password" required>
+      </div>
+      <div class="auth-remember field full">
+        <input type="checkbox" id="remember" name="remember">
+        <label for="remember">Keep me signed in on this browser</label>
+      </div>
+      <button class="button-secondary auth-submit" type="submit">Continue to services</button>
+    </form>
+    <div class="status-message" id="authStatus" role="status"></div>
+    <div class="auth-links">
+      <a href="forgot.html">Forgot password?</a>
+      <p>New customer? <a href="sign.html">Create an account</a></p>
+    </div>
+  </main>
+  <script src="site.js"></script>
+</body>
+</html>

@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #c9b599;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #9B7D61;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.navbar .nav-links li {
+    display: inline;
+}
+
+.navbar .nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.navbar .nav-links a:hover {
+    color: #f7eee4;
+}
+
+
+
+input{
+    display:none;
+}
+.container{
+    width:100%;
+   text-align: center;
+}
+h1{
+    font-weight: normal;
+    font-size: 35px;
+    position: relative;
+    margin: 40px 0;
+}
+h1::before{
+    content:'' ;
+    position:absolute;
+    width:100px;
+    height:4px;
+    background-color: rgb(77, 42, 14);
+    bottom: -10px;
+    transform:translateX(-50%);
+    animation: animate 4s linear infinite;
+}
+@keyframes animate{
+    0%{
+        width: 100px;
+    }
+    50%{
+        width: 200px;
+    }
+    100%{
+        width: 100px;
+    }
+}
+.top-content{
+    background-color: #967853;
+    width: 90%;
+    margin: 0 auto 20px auto;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgb(189, 163, 125);
+}
+h3{
+    height:100% ;
+    background-color: rgb(107, 71, 54);
+    line-height: 60px;
+    padding: 0 50px;
+    color:white;
+
+}
+label{
+    display: inline-block;
+    height: 100%;
+    margin: 0 20px;
+    line-height: 60px;
+    font-size: 18px;
+    color:rgb(245, 245, 245);
+    cursor: pointer;
+    transition: color .5s;
+}
+label:hover{
+    color:black;
+}
+.photo-gallery{
+    width:90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+}
+.pic{
+    position: relative;
+    height: 280px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgb(128, 68, 34);
+    cursor: pointer;
+    transition: .5s;
+}
+.pic img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    transition: .5s;
+}
+.pic::before{
+    content: "PHOTO GALLERY";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    width:100%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .2s;
+    z-index: 1;
+}
+.pic:after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    height: 0;
+    background-color: rgba(0,0,0,.4);
+    transition: .3s;
+}
+.pic:hover::after{
+    height: 100%;
+}
+.pic:hover::before{
+     margin-top: 0;
+     opacity: 1;
+}
+#check1:checked ~ .container .photo-gallery .pic{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+    transition: .5s;
+}
+#check2:checked ~ .container .photo-gallery .hair{
+    transform: scale(1);
+    opacity: 1;
+    position: relative;
+
+}
+#check2:checked ~ .container .photo-gallery .facial,
+#check2:checked ~ .container .photo-gallery .manicure,
+#check2:checked ~ .container .photo-gallery .makeup{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: .0s;
+}
+#check3:checked ~ .container .photo-gallery .facial{
+    transform: scale(1);
+    opacity: 1;
+    position: relative;
+
+}
+#check3:checked ~ .container .photo-gallery .hair,
+#check3:checked ~ .container .photo-gallery .manicure,
+#check3:checked ~ .container .photo-gallery .makeup{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: .0s;
+}
+#check4:checked ~ .container .photo-gallery .manicure{
+    transform: scale(1);
+    opacity: 1;
+    position: relative;
+
+}
+#check4:checked ~ .container .photo-gallery .hair,
+#check4:checked ~ .container .photo-gallery .facial,
+#check4:checked ~ .container .photo-gallery .makeup{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: .0s;
+}
+#check5:checked ~ .container .photo-gallery .makeup{
+    transform: scale(1);
+    opacity: 1;
+    position: relative;
+
+}
+#check5:checked ~ .container .photo-gallery .facial,
+#check5:checked ~ .container .photo-gallery .manicure,
+#check5:checked ~ .container .photo-gallery .hair{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: .0s;
+}

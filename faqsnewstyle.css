@@ -1,0 +1,113 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: hsla(56, 38%, 64%, 0.973);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #9B7D61;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.navbar .nav-links li {
+    display: inline;
+}
+
+.navbar .nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.navbar .nav-links a:hover {
+    color: #f7eee4;
+}
+
+
+
+
+header {
+    background-color: #775d36;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+header h1 {
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#faqs {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: rgba(96, 71, 36, 0.87);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.faq {
+    margin-bottom: 15px;
+    border-radius: 50px;
+    border-color: #333;
+
+}
+
+.faq h2 {
+    cursor: pointer;
+    background-color: #877150;
+    color: rgba(31, 18, 3, 0.959);
+    padding: 10px;
+    margin: 0;
+    transition: background-color 0.3s ease;
+    border-radius: 15px;
+}
+
+.faq h2:hover {
+    background-color: #5e4c2ae0;
+}
+
+.faq p {
+    display: none;
+    padding: 10px;
+    margin: 0;
+    background-color: #e6e4e2;
+    border-radius: 15px;
+
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

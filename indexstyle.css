@@ -1,0 +1,259 @@
+body{
+  background-image:url('background.jpg');
+    min-height: 70vh;
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10%;
+}
+header{
+  background-color:#8d7157;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 100%;
+  
+}
+
+.hero h1{
+  font-size: 50px;
+  text-align: center;
+
+}
+.hero p {
+  font-size: 40px;
+  text-align:center;
+  font-weight: 500%;
+  line-break: normal;
+  
+}
+
+
+  nav{
+    display: flex;
+    justify-content: center;
+    background-color:#554c32;
+    padding: 10px 0;
+    margin: 10px 0;
+ }
+ nav a{
+    color:rgb(248, 246, 246);
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ 
+ .cart-link {
+  display: flex;
+  align-items: center;
+
+}
+.cart-icon {
+  font-size: 1.2em;
+  margin-right: 5px;
+  /* Optional: Style to make it more visually prominent */
+  color: #864921;
+  margin-left: 500px;
+  padding-left: 80px;
+  margin-right: -250px;
+ }
+
+.main{
+   font-size:20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   border-color: black;
+   margin-left: 50px;
+  }
+.second{ 
+   font-size:1.6cm;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color:#fff;
+}
+
+
+
+
+
+
+
+
+.button {
+  background-color: #6e4b2c;
+  color: white;
+  padding: 15px 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 30px;
+  display: inline-block;
+  margin-left: 35%;
+}
+.button a{
+  text-decoration: none;
+  color: #fff;
+}
+.button:hover {
+  background-color: #c0af89;
+}
+
+
+
+
+
+
+
+
+.search-bar{
+  width: 280px;
+  height: 35px;
+  background: transparent;
+  border: 2px solid black;
+  border-radius: 6px;
+  display: flex;
+  align-items:center;
+  margin-top: 2px;
+  margin-right: -700px;
+ }
+.search-bar input{
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color:black ;
+  padding-left: 10px;
+}
+.search-bar input::placeholder{
+  color: black;
+}
+.search-bar button{
+  width: 90px;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.search-bar button i{
+  font-size: 22px;
+  color: black;
+}
+
+.user-icon svg {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+
+  padding: 5px;
+  margin-right: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.user-icon:hover svg {
+  background-color: #9b8f68;
+}
+#content {
+  margin-top: 100px;
+  text-align: center;
+  padding: 40px 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+}
+
+.login-section {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title-text {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.field {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.field input {
+  width: 100%;
+  padding: 10px 5px;
+  margin-top: 12px;
+  border: none;
+  border-bottom: 1px solid #3f3f3f;
+  background: none;
+  color: #333;
+  outline: none;
+}
+
+.field label {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  font-size: 14px;
+  color: #777;
+  pointer-events: none;
+  transition: 0.3s ease;
+}
+
+.field input:focus + label,
+.field input:valid + label {
+  transform: translateY(-20px);
+  font-size: 12px;
+  color: #333;
+}
+
+#action {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+}
+
+#forget {
+  color: #ff6b6b;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+#login {
+  background-color: #ff6b6b;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#login:hover {
+  background-color: #e65b5b;
+}
+
+#signup {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+#signup a {
+  color: #ff6b6b;
+  text-decoration: none;
+}
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reset Password | Mystric Mehandhi</title>
+  <link rel="stylesheet" href="site.css">
+</head>
+<body class="auth-page">
+  <main class="auth-card form-shell">
+    <a class="brand" href="index.html">
+      <strong>Mystric Mehandhi</strong>
+      <span>Back to website</span>
+    </a>
+    <h1>Reset Password</h1>
+    <p>Update the password stored in this browser demo.</p>
+    <form id="resetForm" class="form-grid">
+      <div class="field full">
+        <label for="password">New Password</label>
+        <input type="password" id="password" name="password" placeholder="New password" required>
+      </div>
+      <div class="field full">
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm password" required>
+      </div>
+      <button class="button-secondary" type="submit">Update Password</button>
+    </form>
+    <div class="status-message" id="authStatus" role="status"></div>
+    <p><a href="login.html">Back to login</a></p>
+  </main>
+  <script src="site.js"></script>
+</body>
+</html>

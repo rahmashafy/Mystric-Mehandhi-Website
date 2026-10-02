@@ -1,0 +1,1495 @@
+[Fri Oct  2 15:33:44 2026] PHP 8.2.12 Development Server (http://127.0.0.1:5173) started
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:63895 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:63895 [200]: GET /index.html
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:63895 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:60538 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:54513 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:60538 [200]: GET /site.css
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:55787 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:54513 [200]: GET /bridal.jpg
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:55787 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:60538 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:54513 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:55787 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:49589 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:49589 [200]: GET /party1.jpg
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:60704 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:60704 [200]: GET /simple4.jpg
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:63161 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:49589 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:54719 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:63161 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:51995 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:54719 [200]: GET /site.js
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:60704 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:57237 Accepted
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:51995 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:57237 [200]: GET /simple5.jpg
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:63161 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:54719 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:51995 Closing
+[Fri Oct  2 15:34:26 2026] 127.0.0.1:57237 Closing
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:62624 Accepted
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:62624 [200]: GET /background.jpg
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:51548 Accepted
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:51548 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:62624 Closing
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:51548 Closing
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:53797 Accepted
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:53797 [404]: GET /favicon.ico - No such file or directory
+[Fri Oct  2 15:34:27 2026] 127.0.0.1:53797 Closing
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:50946 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:50946 [200]: GET /shop.html
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:50946 Closing
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:56465 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:62636 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:49231 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:56465 [200]: GET /site.css
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:62636 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:49231 [200]: GET /mehandicone.jpg
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:56465 Closing
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:62636 Closing
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:49231 Closing
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:58171 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:64716 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:58171 [200]: GET /bridalkit1.jpg
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:64716 [200]: GET /bulk.jpg
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:49937 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:52363 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:53496 Accepted
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:49937 [200]: GET /site.js
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:52363 [200]: GET /balm.jpg
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:64716 Closing
+[Fri Oct  2 15:34:45 2026] 127.0.0.1:55444 Accepted
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:53496 [200]: GET /sealent.jpg
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:58171 Closing
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:55444 [200]: GET /emptycone.jpg
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:49937 Closing
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:52363 Closing
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:53496 Closing
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:55444 Closing
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:54340 Accepted
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:54340 [200]: GET /spraybottle.jpg
+[Fri Oct  2 15:34:46 2026] 127.0.0.1:54340 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:63459 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:63459 [200]: GET /gallerynew.html
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:63459 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:60427 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:52657 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:60427 [200]: GET /site.css
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:52657 [200]: GET /gulf.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:60427 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:57353 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:52657 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:57353 [200]: GET /arabic.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:57353 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:51222 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:51222 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:59301 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:59301 [200]: GET /bridal.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:51222 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:59301 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:59326 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:59326 [200]: GET /gulf1.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:56285 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:50299 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:56285 [200]: GET /site.js
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:52808 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:50299 [200]: GET /arabic2.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:59326 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:52808 [200]: GET /simple3.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:56285 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:50299 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:57137 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:52808 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:57137 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:62555 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:62555 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:57137 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:62555 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:58670 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:58670 [200]: GET /simple5.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:58670 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:56468 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:65328 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:56468 [200]: GET /arabic4.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:65328 [200]: GET /simple6.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:56468 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:65328 Closing
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:64230 Accepted
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:64230 [200]: GET /service.jpg
+[Fri Oct  2 15:34:47 2026] 127.0.0.1:64230 Closing
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:56210 Accepted
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:56210 [200]: GET /book.html
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:56210 Closing
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:53150 Accepted
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:54563 Accepted
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:53150 [200]: GET /site.css
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:54563 [200]: GET /site.js
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:53150 Closing
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:54563 Closing
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:54018 Accepted
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:54018 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:34:48 2026] 127.0.0.1:54018 Closing
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:62752 Accepted
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:62752 [200]: GET /contactl.html
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:62752 Closing
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:58277 Accepted
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:57951 Accepted
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:58277 [200]: GET /site.css
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:57951 [200]: GET /site.js
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:58277 Closing
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:57951 Closing
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:61877 Accepted
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:61877 [200]: GET /background.jpg
+[Fri Oct  2 15:34:49 2026] 127.0.0.1:61877 Closing
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:58518 Accepted
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:58518 [200]: GET /about.html
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:58518 Closing
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:64162 Accepted
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:50618 Accepted
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:51019 Accepted
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:64162 [200]: GET /site.css
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:50618 [200]: GET /aboutimg.jpg
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:51019 [200]: GET /site.js
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:64162 Closing
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:50618 Closing
+[Fri Oct  2 15:34:50 2026] 127.0.0.1:51019 Closing
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:60673 Accepted
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:60673 [200]: GET /faqsnew.html
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:60673 Closing
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:60511 Accepted
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:58537 Accepted
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:60511 [200]: GET /site.css
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:58537 [200]: GET /site.js
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:60511 Closing
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:58537 Closing
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:57103 Accepted
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:57103 [200]: GET /simple5.jpg
+[Fri Oct  2 15:34:51 2026] 127.0.0.1:57103 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:56690 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:56690 [200]: GET /index.html
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:56690 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:51552 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64494 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:51552 [200]: GET /site.css
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:63741 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64494 [200]: GET /bridal.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:63741 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:51552 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64494 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:63741 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:60095 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64499 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:60095 [200]: GET /party1.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64499 [200]: GET /simple4.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:52654 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:60095 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64499 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:52654 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:52654 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64667 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:50618 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:65474 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64667 [200]: GET /site.js
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:50618 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:65474 [200]: GET /simple5.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:64667 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:50618 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:65474 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:59305 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:52987 Accepted
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:59305 [200]: GET /background.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:52987 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:52987 Closing
+[Fri Oct  2 15:35:14 2026] 127.0.0.1:59305 Closing
+[Fri Oct  2 15:35:15 2026] 127.0.0.1:62066 Accepted
+[Fri Oct  2 15:35:15 2026] 127.0.0.1:62066 [200]: GET /shop.html
+[Fri Oct  2 15:35:15 2026] 127.0.0.1:62066 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61325 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:51289 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61651 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61325 [200]: GET /site.css
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:51289 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61651 [200]: GET /mehandicone.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61325 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61651 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:51289 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:58556 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:62329 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:58556 [200]: GET /bridalkit1.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:62329 [200]: GET /bulk.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61943 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:58556 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:62329 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:55982 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61943 [200]: GET /balm.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:55982 [200]: GET /site.js
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:56195 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:49512 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:56195 [200]: GET /sealent.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:61943 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:49512 [200]: GET /emptycone.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:55982 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:56195 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:49512 Closing
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:58640 Accepted
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:58640 [200]: GET /spraybottle.jpg
+[Fri Oct  2 15:35:16 2026] 127.0.0.1:58640 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:50906 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:50906 [200]: GET /gallerynew.html
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:50906 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:63695 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:63695 [200]: GET /site.css
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:63695 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:60156 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:60156 [200]: GET /gulf.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:60156 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:62448 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:62448 [200]: GET /arabic.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:62448 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:59851 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:61462 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:59851 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:61462 [200]: GET /bridal.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:59851 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:61462 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:62444 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:62444 [200]: GET /gulf1.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:52962 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:62444 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:52962 [200]: GET /site.js
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:52962 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:57054 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:55759 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:57054 [200]: GET /arabic2.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:55759 [200]: GET /simple3.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:54933 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:57054 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:54933 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:55759 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:54933 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:58725 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:58725 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:58725 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:55572 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:55572 [200]: GET /simple5.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:55572 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:53202 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:60816 Accepted
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:53202 [200]: GET /arabic4.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:60816 [200]: GET /simple6.jpg
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:53202 Closing
+[Fri Oct  2 15:35:17 2026] 127.0.0.1:60816 Closing
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:51726 Accepted
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:51726 [200]: GET /book.html
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:51726 Closing
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:59000 Accepted
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:59000 [200]: GET /site.css
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:51219 Accepted
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:51219 [200]: GET /site.js
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:59000 Closing
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:51219 Closing
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:62407 Accepted
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:62407 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:35:18 2026] 127.0.0.1:62407 Closing
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:57873 Accepted
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:57873 [200]: GET /contactl.html
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:57873 Closing
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:61880 Accepted
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:65099 Accepted
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:61880 [200]: GET /site.css
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:65099 [200]: GET /site.js
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:61880 Closing
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:65099 Closing
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:58338 Accepted
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:58338 [200]: GET /background.jpg
+[Fri Oct  2 15:35:20 2026] 127.0.0.1:58338 Closing
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:65452 Accepted
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:65452 [200]: GET /faqsnew.html
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:65452 Closing
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:65309 Accepted
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:65309 [200]: GET /site.css
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:49849 Accepted
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:49849 [200]: GET /site.js
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:65309 Closing
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:49849 Closing
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:64757 Accepted
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:64757 [200]: GET /simple5.jpg
+[Fri Oct  2 15:35:21 2026] 127.0.0.1:64757 Closing
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:55129 Accepted
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:55129 [200]: GET /checkout.html
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:55129 Closing
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:54744 Accepted
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:64094 Accepted
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:54744 [200]: GET /site.css
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:64094 [200]: GET /site.js
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:54744 Closing
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:64094 Closing
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:50203 Accepted
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:50203 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:35:22 2026] 127.0.0.1:50203 Closing
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:61618 Accepted
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:61618 [200]: GET /login.html
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:61618 Closing
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:57940 Accepted
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:57942 Accepted
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:57940 [200]: GET /site.css
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:57942 [200]: GET /site.js
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:57940 Closing
+[Fri Oct  2 15:35:23 2026] 127.0.0.1:57942 Closing
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:54662 Accepted
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:54662 [200]: GET /veiwcart.html
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:54662 Closing
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:64476 Accepted
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:64476 [200]: GET /site.css
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:64476 Closing
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:60402 Accepted
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:60402 [200]: GET /site.js
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:60402 Closing
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:59205 Accepted
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:59205 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:35:24 2026] 127.0.0.1:59205 Closing
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:56571 Accepted
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:56571 [200]: GET /popup.html
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:56571 Closing
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:55136 Accepted
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:50005 Accepted
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:55136 [200]: GET /site.css
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:50005 [200]: GET /site.js
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:55136 Closing
+[Fri Oct  2 15:35:25 2026] 127.0.0.1:50005 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:62291 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:62291 [200]: GET /index.html
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:62291 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:60558 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:57914 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:60558 [200]: GET /site.css
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:62153 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:57914 [200]: GET /bridal.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:62153 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:60558 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:57914 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:62153 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:63704 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:63704 [200]: GET /party1.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:58339 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:58339 [200]: GET /simple4.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:63704 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:58339 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:52374 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:51007 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:50107 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:52080 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:52374 [200]: GET /site.js
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:51007 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:50107 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:52080 [200]: GET /simple5.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:52374 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:51007 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:50107 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:52080 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:58924 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:58924 [200]: GET /background.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:58924 Closing
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:53673 Accepted
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:53673 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 15:36:06 2026] 127.0.0.1:53673 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53900 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53900 [200]: GET /gallerynew.html
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53900 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63815 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:56009 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63815 [200]: GET /site.css
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63949 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:56009 [200]: GET /gulf.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63949 [200]: GET /arabic.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63815 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:56009 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63949 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64372 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:51576 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64372 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:51576 [200]: GET /bridal.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64372 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:51576 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:59257 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64514 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:59257 [200]: GET /site.js
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64514 [200]: GET /gulf1.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:59257 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64514 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53928 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:62797 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53928 [200]: GET /arabic2.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:62797 [200]: GET /simple3.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53928 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:62797 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53051 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63312 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53051 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63312 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:53051 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63312 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64676 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64676 [200]: GET /simple5.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63628 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:64676 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:61821 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:60522 Accepted
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63628 [200]: GET /arabic4.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:61821 [200]: GET /simple6.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:60522 [200]: GET /service.jpg
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:63628 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:61821 Closing
+[Fri Oct  2 15:36:28 2026] 127.0.0.1:60522 Closing
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:57214 Accepted
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:57214 [200]: GET /book.html?service=bridal
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:57214 Closing
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:62889 Accepted
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:58911 Accepted
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:62889 [200]: GET /site.css
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:58911 [200]: GET /site.js
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:62889 Closing
+[Fri Oct  2 15:37:09 2026] 127.0.0.1:58911 Closing
+[Fri Oct  2 15:37:10 2026] 127.0.0.1:56184 Accepted
+[Fri Oct  2 15:37:10 2026] 127.0.0.1:56184 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:37:10 2026] 127.0.0.1:56184 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:49868 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:49868 [200]: GET /index.html
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:49868 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:62619 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:62619 [200]: GET /site.css
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:65442 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:54143 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:65442 [200]: GET /bridal.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:54143 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:62619 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:65442 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:54143 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:59513 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:59513 [200]: GET /party1.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:55580 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:55580 [200]: GET /simple4.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:59513 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:55580 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:50452 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:52614 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:64511 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:59422 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:50452 [200]: GET /site.js
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:52614 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:64511 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:59422 [200]: GET /simple5.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:50452 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:52614 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:64511 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:59422 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:52704 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:52704 [200]: GET /background.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:58481 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:58481 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:52704 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:58481 Closing
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:57267 Accepted
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:57267 [200]: GET /veiwcart.html
+[Fri Oct  2 15:38:35 2026] 127.0.0.1:57267 Closing
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:54953 Accepted
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:61644 Accepted
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:54953 [200]: GET /site.css
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:61644 [200]: GET /site.js
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:54953 Closing
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:61644 Closing
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:54198 Accepted
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:54198 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:54198 Closing
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:61984 Accepted
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:61984 [200]: GET /popup.html
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:61984 Closing
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:64609 Accepted
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:60685 Accepted
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:64609 [200]: GET /site.css
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:60685 [200]: GET /site.js
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:64609 Closing
+[Fri Oct  2 15:38:36 2026] 127.0.0.1:60685 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:53196 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:53196 [200]: GET /index.html
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:53196 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:56547 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:52664 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:61255 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:56547 [200]: GET /site.css
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:52664 [200]: GET /bridal.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:61255 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:56547 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:52664 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:61255 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:52858 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:52858 [200]: GET /party1.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:53950 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:53950 [200]: GET /simple4.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:49432 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:52858 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:49432 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:51958 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:53950 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:63210 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:51958 [200]: GET /site.js
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:61838 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:63210 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:49432 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:61838 [200]: GET /simple5.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:51958 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:63210 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:61838 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:56220 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:56220 [200]: GET /background.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:63911 Accepted
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:63911 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:56220 Closing
+[Fri Oct  2 15:38:49 2026] 127.0.0.1:63911 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:55787 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:55787 [200]: GET /index.html
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:55787 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:60430 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59052 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:53756 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:60430 [200]: GET /site.css
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59052 [200]: GET /bridal.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:53756 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:60430 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59052 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:53756 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56863 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56800 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56863 [200]: GET /party1.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56800 [200]: GET /simple4.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56863 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56800 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59712 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56626 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59240 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:57928 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59712 [200]: GET /site.js
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56626 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59240 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:57928 [200]: GET /simple5.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59712 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:56626 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:59240 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:57928 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:64097 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:62174 Accepted
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:64097 [200]: GET /background.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:62174 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:64097 Closing
+[Fri Oct  2 15:39:10 2026] 127.0.0.1:62174 Closing
+[Fri Oct  2 15:39:31 2026] 127.0.0.1:62998 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:52326 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:52326 [200]: GET /index.html
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:52326 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:63941 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:58918 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:61733 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:63941 [200]: GET /site.css
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:58918 [200]: GET /bridal.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:61733 [200]: GET /bridal1.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:63941 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:58918 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:61733 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:49389 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:53657 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:49389 [200]: GET /party1.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:53657 [200]: GET /simple4.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:61010 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:49193 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:49389 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:54303 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:61010 [200]: GET /site.js
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:49193 [200]: GET /arabic1.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:53657 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:58911 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:54303 [200]: GET /gulf2.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:58911 [200]: GET /simple5.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:61010 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:49193 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:54303 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:58911 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:54200 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:54200 [200]: GET /background.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:50196 Accepted
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:50196 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:54200 Closing
+[Fri Oct  2 15:40:01 2026] 127.0.0.1:50196 Closing
+[Fri Oct  2 15:40:52 2026] 127.0.0.1:62998 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Oct  2 15:40:52 2026] 127.0.0.1:62998 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:56197 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:56197 [200]: GET /service2.html
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:56197 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:49477 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:57041 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:49477 [200]: GET /site.css
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63403 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:57041 [200]: GET /bridal.jpg
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63403 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:49477 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:57041 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63403 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:51472 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63226 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:51472 [200]: GET /mehandicone.jpg
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63226 [200]: GET /party1.jpg
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:50932 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63345 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:50932 [200]: GET /site.js
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:51472 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63345 [200]: GET /simple4.jpg
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63226 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:65098 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:65098 [200]: GET /background.jpg
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:50932 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:63345 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:65098 Closing
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:62984 Accepted
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:62984 [200]: GET /service.jpg
+[Fri Oct  2 15:47:53 2026] 127.0.0.1:62984 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:59963 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:59963 [200]: GET /service2.html
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:59963 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:65036 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:54102 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:59182 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:65036 [200]: GET /site.css
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:54102 [200]: GET /bridal.jpg
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:59182 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:65036 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:54102 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:59182 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:63743 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:63743 [200]: GET /mehandicone.jpg
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:54513 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:54513 [200]: GET /party1.jpg
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:63743 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:54513 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:56239 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:56328 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:56239 [200]: GET /site.js
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:56328 [200]: GET /simple4.jpg
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:56239 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:56328 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:49730 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:49730 [200]: GET /background.jpg
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:62664 Accepted
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:62664 [200]: GET /service.jpg
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:49730 Closing
+[Fri Oct  2 15:49:43 2026] 127.0.0.1:62664 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:60601 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:60601 [200]: GET /service2.html
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:60601 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:52316 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:62207 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:54422 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:52316 [200]: GET /site.css
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:62207 [200]: GET /bridal.jpg
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:54422 [200]: GET /hennapowder.jpg
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:52316 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:62207 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:54422 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:57646 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:57646 [200]: GET /mehandicone.jpg
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:57646 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:58022 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:58022 [200]: GET /party1.jpg
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:58271 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:58022 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:63223 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:58271 [200]: GET /site.js
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:63223 [200]: GET /simple4.jpg
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:58271 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:63223 Closing
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:57941 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:57941 [200]: GET /background.jpg
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:59176 Accepted
+[Fri Oct  2 15:50:50 2026] 127.0.0.1:59176 [200]: GET /service.jpg
+[Fri Oct  2 15:50:51 2026] 127.0.0.1:57941 Closing
+[Fri Oct  2 15:50:51 2026] 127.0.0.1:59176 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:50497 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:50497 [200]: GET /service2.html
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:50497 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:64848 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:58826 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:51900 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:64848 [200]: GET /site.css
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:58826 [200]: GET /bridal.jpg
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:51900 [200]: GET /mehandicone.jpg
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:64848 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:58826 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:51900 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:65274 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:49518 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:65274 [200]: GET /party1.jpg
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:49518 [200]: GET /emptycone.jpg
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:56968 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:54850 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:56968 [200]: GET /site.js
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:54850 [200]: GET /simple4.jpg
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:65274 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:49518 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:55314 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:56968 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:55578 Accepted
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:55314 [200]: GET /background.jpg
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:54850 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:55578 [200]: GET /service.jpg
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:55314 Closing
+[Fri Oct  2 16:04:36 2026] 127.0.0.1:55578 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:55170 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:55170 [200]: GET /index.html
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:55170 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:52226 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64529 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:62716 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:52226 [200]: GET /site.css
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64529 [200]: GET /bridal.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:62716 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:52226 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64529 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:62716 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:49329 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:49329 [200]: GET /party1.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:63008 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:63008 [200]: GET /simple4.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:49329 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:63008 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:62313 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:62313 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:62313 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:56262 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64495 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:50928 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:56262 [200]: GET /site.js
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64495 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:50928 [200]: GET /simple5.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:60944 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:60944 [200]: GET /background.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:56262 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64963 Accepted
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64495 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:50928 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64963 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:60944 Closing
+[Fri Oct  2 16:05:05 2026] 127.0.0.1:64963 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:64263 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:64263 [200]: GET /shop.html
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:64263 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54400 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:58030 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60174 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54400 [200]: GET /site.css
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:58030 [200]: GET /hennapowder.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60174 [200]: GET /mehandicone.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54400 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:58030 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60174 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62033 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62481 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:57614 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:55711 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:59135 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52033 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62033 [200]: GET /site.js
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62481 [200]: GET /bridalkit1.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:57614 [200]: GET /bulk.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:55711 [200]: GET /balm.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:59135 [200]: GET /sealent.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52033 [200]: GET /emptycone.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62033 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:57614 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:55711 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62481 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:59135 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52033 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:55277 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:55277 [200]: GET /spraybottle.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:55277 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56882 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:63850 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56882 [200]: GET /service.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:63850 [200]: GET /background.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56882 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:63850 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:64255 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:64255 [200]: GET /gallerynew.html
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:64255 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:53647 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52463 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52410 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:53647 [200]: GET /site.css
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52463 [200]: GET /gulf.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52410 [200]: GET /arabic.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:53647 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52463 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52410 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60468 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60468 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:51516 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60468 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:51516 [200]: GET /bridal.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54667 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:51516 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54667 [200]: GET /gulf1.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60559 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54667 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60060 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56064 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60559 [200]: GET /site.js
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60060 [200]: GET /arabic2.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56064 [200]: GET /simple3.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60559 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60060 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56064 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:53734 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:53734 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:53734 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:50470 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:50470 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:50470 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:57726 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:57726 [200]: GET /service.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:57726 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54081 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54081 [200]: GET /background.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:54081 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62116 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56064 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62116 [200]: GET /simple5.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56064 [200]: GET /arabic4.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:62116 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:51943 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56064 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:51943 [200]: GET /simple6.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:51943 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60417 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60417 [200]: GET /book.html
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:60417 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52531 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:65258 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52531 [200]: GET /site.css
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:65258 [200]: GET /site.js
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:52531 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:65258 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56641 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56641 [200]: GET /background.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:58480 Accepted
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:58480 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:56641 Closing
+[Fri Oct  2 16:05:06 2026] 127.0.0.1:58480 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:59102 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:59102 [200]: GET /contactl.html
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:59102 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:58732 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:60082 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:58732 [200]: GET /site.css
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:60082 [200]: GET /site.js
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:58732 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:60082 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:51640 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:51640 [200]: GET /background.jpg
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:51640 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:50747 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:50747 [200]: GET /login.html
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:50747 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:62966 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:49998 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:62966 [200]: GET /site.css
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:49998 [200]: GET /site.js
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:62966 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:49998 Closing
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:55116 Accepted
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:55116 [200]: GET /background.jpg
+[Fri Oct  2 16:05:07 2026] 127.0.0.1:55116 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:56418 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:56418 [200]: GET /gallerynew.html
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:56418 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:56426 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:56426 [200]: GET /site.css
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:56426 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:53745 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:53745 [200]: GET /gulf.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:53745 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:54261 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:54261 [200]: GET /arabic.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:54261 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:60380 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:62372 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:60380 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:62372 [200]: GET /bridal.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:61605 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:60380 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:62372 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:63979 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:61605 [200]: GET /site.js
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59545 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:63979 [200]: GET /gulf1.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:57724 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59545 [200]: GET /arabic2.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:57724 [200]: GET /simple3.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:61605 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:63979 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:60938 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59545 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59223 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:57724 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:60938 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59223 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:60938 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59223 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:63742 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:63742 [200]: GET /simple5.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:63742 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:52080 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:62667 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:52080 [200]: GET /arabic4.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:62667 [200]: GET /simple6.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:52080 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:62667 Closing
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59908 Accepted
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59908 [200]: GET /background.jpg
+[Fri Oct  2 16:05:43 2026] 127.0.0.1:59908 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61190 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61190 [200]: GET /index.html
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61190 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:63770 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:64911 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61753 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:63770 [200]: GET /site.css
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:64911 [200]: GET /bridal.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61753 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58335 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:52892 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58335 [200]: GET /party1.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:63770 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58894 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:52892 [200]: GET /simple4.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:64911 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61753 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:54061 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58894 [200]: GET /site.js
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61223 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:54061 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58335 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58962 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61223 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:52892 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:65180 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58962 [200]: GET /simple5.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58894 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:57121 Accepted
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:65180 [200]: GET /background.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:54061 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:57121 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:61223 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:58962 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:65180 Closing
+[Fri Oct  2 16:22:05 2026] 127.0.0.1:57121 Closing
+[Fri Oct  2 16:31:59 2026] 127.0.0.1:64601 Accepted
+[Fri Oct  2 16:31:59 2026] 127.0.0.1:64601 [200]: GET /index.html
+[Fri Oct  2 16:31:59 2026] 127.0.0.1:64601 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:49520 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:51998 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:49520 [200]: GET /site.css
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:51998 [200]: GET /bridal.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:49520 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:51998 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:64466 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:64466 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:64466 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:65123 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:52235 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:49697 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:65123 [200]: GET /party1.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:50577 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:52235 [200]: GET /simple4.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:49697 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:55680 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:50577 [200]: GET /site.js
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:61654 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:55680 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:65123 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:61654 [200]: GET /simple5.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:52235 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:49697 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:50577 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:55680 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:61654 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:51313 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:51313 [200]: GET /background.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:51313 Closing
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:62633 Accepted
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:62633 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 16:32:00 2026] 127.0.0.1:62633 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58159 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58159 [200]: GET /index.html
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58159 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:63661 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58037 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58075 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:63661 [200]: GET /site.css
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58037 [200]: GET /bridal.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58075 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:63661 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58037 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58075 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:64597 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:51267 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:64597 [200]: GET /party1.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:51267 [200]: GET /simple4.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:52039 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:60194 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:52039 [200]: GET /site.js
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:64597 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:60997 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:60194 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:51267 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:54636 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:60997 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:54636 [200]: GET /simple5.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:52039 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:60194 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:60997 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:54636 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58833 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58833 [200]: GET /background.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:64515 Accepted
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:64515 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:58833 Closing
+[Fri Oct  2 16:33:23 2026] 127.0.0.1:64515 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:57067 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:57067 [200]: GET /index.html
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:57067 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50382 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50564 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50382 [200]: GET /site.css
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:56968 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50564 [200]: GET /bridal.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:56968 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50382 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50564 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:56968 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:56696 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:56696 [200]: GET /party1.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:54042 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:54042 [200]: GET /simple4.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:56696 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:52379 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:54042 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:53356 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:52379 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:54275 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:53356 [200]: GET /site.js
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50836 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:54275 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50836 [200]: GET /simple5.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:52379 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:53356 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:54275 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:50836 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:55136 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:55136 [200]: GET /background.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:59518 Accepted
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:59518 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:55136 Closing
+[Fri Oct  2 16:34:11 2026] 127.0.0.1:59518 Closing
+[Fri Oct  2 16:34:35 2026] 127.0.0.1:50542 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:50542 [200]: GET /service2.html
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:50542 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:65435 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:65435 [200]: GET /site.css
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:65435 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:52055 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59064 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:52055 [200]: GET /bridal.jpg
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59064 [200]: GET /mehandicone.jpg
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:52055 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59064 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:54010 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:58546 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:54010 [200]: GET /emptycone.jpg
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:52628 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:58546 [200]: GET /party1.jpg
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59745 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:52628 [200]: GET /site.js
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59820 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59745 [200]: GET /simple4.jpg
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:54010 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:61460 Accepted
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59820 [200]: GET /background.jpg
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:58546 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:61460 [200]: GET /service.jpg
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:52628 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59745 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:59820 Closing
+[Fri Oct  2 16:34:36 2026] 127.0.0.1:61460 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52270 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52270 [200]: GET /shop.html
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52270 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:57633 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:57633 [200]: GET /site.css
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:57633 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:55156 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:55332 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:55156 [200]: GET /hennapowder.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:55332 [200]: GET /mehandicone.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:55156 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:55332 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:49981 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:49981 [200]: GET /bridalkit1.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:57760 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:54615 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:57760 [200]: GET /bulk.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52248 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:54615 [200]: GET /balm.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:53582 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52248 [200]: GET /site.js
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:49981 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:64791 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:53582 [200]: GET /sealent.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:57760 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:58131 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:64791 [200]: GET /emptycone.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:54615 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:61943 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:58131 [200]: GET /service.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52248 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:61943 [200]: GET /background.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:53582 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:64791 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:58131 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:61943 Closing
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52863 Accepted
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52863 [200]: GET /spraybottle.jpg
+[Fri Oct  2 16:34:48 2026] 127.0.0.1:52863 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:62424 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:62424 [200]: GET /gallerynew.html
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:62424 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:63475 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:64849 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:52265 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:63475 [200]: GET /site.css
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:64849 [200]: GET /gulf.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:52265 [200]: GET /arabic.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:51296 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58670 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:51296 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:63475 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58663 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58670 [200]: GET /bridal.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:64849 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:52265 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59148 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58663 [200]: GET /gulf1.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59080 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59148 [200]: GET /site.js
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:51296 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59437 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59080 [200]: GET /arabic2.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58670 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59197 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59437 [200]: GET /simple3.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58663 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58757 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59197 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59148 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:54644 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58757 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59080 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:52072 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:54644 [200]: GET /simple5.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59437 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:61012 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:52072 [200]: GET /service.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:59197 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:61012 [200]: GET /background.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:58757 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:54644 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:52072 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:61012 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:51099 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:61593 Accepted
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:51099 [200]: GET /arabic4.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:61593 [200]: GET /simple6.jpg
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:51099 Closing
+[Fri Oct  2 16:34:58 2026] 127.0.0.1:61593 Closing
+[Fri Oct  2 16:35:06 2026] 127.0.0.1:55482 Accepted
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:55482 [200]: GET /about.html
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:55482 Closing
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:61408 Accepted
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:61082 Accepted
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:53452 Accepted
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:61408 [200]: GET /site.css
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:61082 [200]: GET /aboutimg.jpg
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:53452 [200]: GET /site.js
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:61408 Closing
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:61082 Closing
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:53452 Closing
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:65464 Accepted
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:65464 [200]: GET /background.jpg
+[Fri Oct  2 16:35:07 2026] 127.0.0.1:65464 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:54317 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:54317 [200]: GET /index.html
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:54317 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:49458 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:49458 [200]: GET /site.css
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:62499 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:49458 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:57739 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:62499 [200]: GET /bridal.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:57739 [200]: GET /bridal1.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:62499 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:57739 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:59630 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:63605 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:59630 [200]: GET /party1.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:63605 [200]: GET /simple4.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:58894 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:57568 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:58894 [200]: GET /site.js
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:59630 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:63605 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:49529 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:57568 [200]: GET /arabic1.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:50103 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:49529 [200]: GET /gulf2.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:50103 [200]: GET /simple5.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:58894 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:57568 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:49529 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:50103 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:58261 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:51483 Accepted
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:58261 [200]: GET /background.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:51483 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:58261 Closing
+[Fri Oct  2 16:38:19 2026] 127.0.0.1:51483 Closing
+[Fri Oct  2 17:13:21 2026] 127.0.0.1:60332 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:60332 [200]: GET /service2.html
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:60332 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57229 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:56835 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:61178 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57229 [200]: GET /site.css
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:56835 [200]: GET /bridal.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:61178 [200]: GET /mehandicone.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57229 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:56835 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:61178 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:59418 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:54111 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:58827 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:58803 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:59418 [200]: GET /site.js
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:54111 [200]: GET /emptycone.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:58827 [200]: GET /party1.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:58803 [200]: GET /simple4.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:59418 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:54111 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:58827 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:58803 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57826 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57826 [200]: GET /background.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:53918 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:53918 [200]: GET /service.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57826 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:53918 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:60312 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:60312 [200]: GET /login.html?next=service2.html
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:60312 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:53638 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57869 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:53638 [200]: GET /site.css
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57869 [200]: GET /site.js
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:53638 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:57869 Closing
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:63930 Accepted
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:63930 [200]: GET /background.jpg
+[Fri Oct  2 17:13:22 2026] 127.0.0.1:63930 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:60499 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:60499 [200]: GET /index.html
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:60499 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:55519 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52247 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:62378 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:55519 [200]: GET /site.css
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52247 [200]: GET /bridal.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:62378 [200]: GET /bridal1.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:55519 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52247 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:62378 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:60901 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:64916 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:60901 [200]: GET /party1.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:64916 [200]: GET /simple4.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:60901 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:56099 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:64916 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52519 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:56099 [200]: GET /site.js
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:58550 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52519 [200]: GET /arabic1.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52373 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:58550 [200]: GET /gulf2.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52373 [200]: GET /simple5.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:56099 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52519 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:58550 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:52373 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:54990 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:54990 [200]: GET /background.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:53724 Accepted
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:53724 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:54990 Closing
+[Fri Oct  2 17:13:34 2026] 127.0.0.1:53724 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:58662 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:58662 [200]: GET /index.html
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:58662 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:53369 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:55109 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:53369 [200]: GET /site.css
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54990 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:55109 [200]: GET /bridal.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54990 [200]: GET /bridal1.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:53369 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:55109 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54990 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54915 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:49770 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54915 [200]: GET /party1.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:49770 [200]: GET /simple4.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:60595 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54915 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:49770 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:49896 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:60595 [200]: GET /arabic1.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:49896 [200]: GET /site.js
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:60562 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:60595 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:58312 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:60562 [200]: GET /gulf2.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:49896 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:58312 [200]: GET /simple5.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:60562 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:58312 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:65187 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54039 Accepted
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:65187 [200]: GET /background.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54039 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:54039 Closing
+[Fri Oct  2 17:23:58 2026] 127.0.0.1:65187 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:59809 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:59809 [200]: GET /index.html
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:59809 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:53655 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:60612 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:62874 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:53655 [200]: GET /site.css
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:60612 [200]: GET /bridal.jpg
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:62874 [200]: GET /bridal1.jpg
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:53655 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:60612 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:62874 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:63503 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:63503 [200]: GET /party1.jpg
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:53729 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:53729 [200]: GET /simple4.jpg
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:63503 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:53729 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:54666 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:54666 [200]: GET /arabic1.jpg
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:54666 Closing
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:63480 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:56168 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:61187 Accepted
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:63480 [200]: GET /site.js
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:56168 [200]: GET /gulf2.jpg
+[Fri Oct  2 17:24:14 2026] 127.0.0.1:61187 [200]: GET /simple5.jpg
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:63480 Closing
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:56168 Closing
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:61187 Closing
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:53671 Accepted
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:62513 Accepted
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:53671 [200]: GET /background.jpg
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:62513 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:62513 Closing
+[Fri Oct  2 17:24:15 2026] 127.0.0.1:53671 Closing
+[Fri Oct  2 17:25:25 2026] 127.0.0.1:60690 Accepted
+[Fri Oct  2 17:25:25 2026] 127.0.0.1:60690 [200]: GET /index.html
+[Fri Oct  2 17:25:25 2026] 127.0.0.1:60690 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60658 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:51490 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60658 [200]: GET /site.css
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:62386 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:51490 [200]: GET /bridal.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:62386 [200]: GET /bridal1.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60658 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:51490 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:62386 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:63835 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:59597 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:63835 [200]: GET /party1.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:59597 [200]: GET /simple4.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:63835 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:59597 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60342 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:56467 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60342 [200]: GET /site.js
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:56467 [200]: GET /arabic1.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60342 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:49593 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:56467 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:54227 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:49593 [200]: GET /gulf2.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:54227 [200]: GET /simple5.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:49593 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:54227 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:63648 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:63648 [200]: GET /background.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:63648 Closing
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60799 Accepted
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60799 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 17:25:26 2026] 127.0.0.1:60799 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:63222 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:63222 [200]: GET /index.html
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:63222 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:64272 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:64272 [200]: GET /site.css
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:64272 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:54659 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:49561 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:54659 [200]: GET /bridal.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:49561 [200]: GET /bridal1.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:54659 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:49561 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:53944 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:53944 [200]: GET /party1.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:54384 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:54384 [200]: GET /simple4.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:53944 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:58146 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:54384 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:53211 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:50021 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:62100 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:58146 [200]: GET /site.js
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:53211 [200]: GET /arabic1.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:50021 [200]: GET /gulf2.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:62100 [200]: GET /simple5.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:58146 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:53211 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:50021 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:62100 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:62157 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:62157 [200]: GET /background.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:58086 Accepted
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:58086 [200]: GET /aboutus%20bg.jpg
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:62157 Closing
+[Fri Oct  2 17:25:49 2026] 127.0.0.1:58086 Closing
